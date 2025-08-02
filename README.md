@@ -6,3 +6,7 @@ This step is to show how to make a commit to the branch and how to push it.
 This python app prints Hello World
 
 Let's try the GUI of git
+
+This line will be only available on Development branch.
+
+Another Line for Development
